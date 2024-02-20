@@ -1,2 +1,2 @@
-# javaDaily-Notes
-Meus códigos com comentários aprendendo sobre as funções do Java desenvolvidos na faculdade
+# javascriptDaily-Notes
+Meus códigos comentados enquanto aprendia sobre a linguagem Java desenvolvidos na faculdade
